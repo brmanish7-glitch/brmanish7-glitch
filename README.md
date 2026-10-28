@@ -1,29 +1,43 @@
 # Hi, I'm Manish B 👋
 
-ECE student at **Chennai Institute of Technology** (2025–2029), building IoT, embedded systems and full-stack web projects. I enjoy connecting hardware and software, from sensors and firmware to dashboards and cloud services.
+I'm an Electronics and Communication Engineering student at Chennai Institute of Technology (2025–2029), interested in building systems that connect **embedded hardware, IoT, and software development**.
 
-📍 Chennai, India
-🔎 Looking for internships in embedded systems, IoT and software development
+I enjoy working across the stack — from microcontrollers and sensors to web applications, dashboards, and cloud services.
+
+📍 Chennai, India  
+🎯 Interested in internships in Embedded Systems, IoT, Firmware, and Software Development.
 
 ## Projects
 
-**[CampusConnect](https://github.com/brmanish7-glitch/CampusConnect)** – Student collaboration and resource exchange platform with team formation, real-time chat, a hackathon feed and a student marketplace. Built with React, Vite, Firebase and ImageKit. [Live site](https://campus-connect28.web.app/)
+### 1. EdgeGuard AI — Industrial Machine Health Monitoring
+An ESP32-based project for monitoring industrial motor health using sensor data and a live dashboard. The project explores temperature, current, vibration, and RPM monitoring, machine status classification, alerts, and motor control.
 
-**EdgeGuard AI** – ESP32-based industrial machine health monitoring system. Tracks vibration, temperature, current, voltage and RPM of a DC motor, classifies SAFE / WARNING / DANGER states, and streams to a live dashboard with an alert log, CSV logging and PIN-protected motor control.
+**Focus:** ESP32, embedded systems, sensors, IoT, dashboard development.
 
-**Smart Soil Moisture Monitoring and Rain Prediction System** – Arduino-based project concept using soil moisture sensing and LED indicators, with proposed plant-specific guidance and weather-based watering recommendations. Documentation and original presentation are available in the repository.
+### 2. CampusConnect — Student Collaboration Platform
+A web platform for student collaboration and resource exchange, featuring team formation, real-time chat, a hackathon feed, and a student marketplace.
+
+**Focus:** React, Vite, Firebase, ImageKit, full-stack development.
+
+### 3. Smart Soil Moisture Monitoring and Rain Prediction System
+An Arduino-based project concept for monitoring soil moisture with LED indicators, complemented by proposed plant-specific moisture guidance and weather-based watering recommendations.
+
+**Focus:** Arduino, sensors, embedded systems, IoT concepts.
+
+*The repository contains the project documentation and original presentation; a working hardware implementation is not currently documented.*
 
 ## Skills
 
-- **Embedded and hardware:** ESP32, Arduino UNO, C/C++, sensor interfacing, Altium Designer (basics)
-- **Software:** Python, JavaScript, React, FastAPI, HTML/CSS
-- **Tools and platforms:** Firebase, Git, VS Code
+- **Embedded Systems:** ESP32, Arduino Uno, C, C++, sensor interfacing
+- **Software Development:** Python, JavaScript, React, HTML, CSS
+- **Databases and Backend:** SQL, Firebase, FastAPI
+- **Tools:** Git, GitHub, VS Code, MATLAB, Multisim, Arduino IDE
 
 ## Certifications
 
-- Basic Printed Circuit Board Design, Altium
-- Basic Embedded Systems Design, Altium
-- Python Essentials 1, Cisco Networking Academy
+- Python Essentials 1 — Cisco Networking Academy
+- Basic Printed Circuit Board Design — Altium
+- Basic Embedded Systems Design — Altium
 
 ## Get in touch
 
