@@ -11,7 +11,7 @@ ECE student at **Chennai Institute of Technology** (2025–2029), building IoT, 
 
 **EdgeGuard AI** – ESP32-based industrial machine health monitoring system. Tracks vibration, temperature, current, voltage and RPM of a DC motor, classifies SAFE / WARNING / DANGER states, and streams to a live dashboard with an alert log, CSV logging and PIN-protected motor control.
 
-**Smart Water Irrigation System** – Arduino UNO system that controls water supply from soil moisture and uses weather prediction data to optimize irrigation.
+**Smart Soil Moisture Monitoring and Rain Prediction System** – Arduino-based project concept using soil moisture sensing and LED indicators, with proposed plant-specific guidance and weather-based watering recommendations. Documentation and original presentation are available in the repository.
 
 ## Skills
 
