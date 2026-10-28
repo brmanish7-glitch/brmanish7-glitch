@@ -9,7 +9,7 @@ I enjoy working across the stack — from microcontrollers and sensors to web ap
 
 ## Projects
 
-### 1. EdgeGuard AI — Industrial Machine Health Monitoring
+### 1. [EdgeGuard AI — Industrial Machine Health Monitoring](https://github.com/brmanish7-glitch/EdgeGuard-AI)
 An ESP32-based project for monitoring industrial motor health using sensor data and a live dashboard. The project explores temperature, current, vibration, and RPM monitoring, machine status classification, alerts, and motor control.
 
 **Focus:** ESP32, embedded systems, sensors, IoT, dashboard development.
