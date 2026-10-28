@@ -9,17 +9,17 @@ I enjoy working across the stack — from microcontrollers and sensors to web ap
 
 ## Projects
 
- 1. [EdgeGuard AI — Industrial Machine Health Monitoring](https://github.com/brmanish7-glitch/EdgeGuard-AI)
+ ### 1. [EdgeGuard AI — Industrial Machine Health Monitoring](https://github.com/brmanish7-glitch/EdgeGuard-AI)
 An ESP32-based project for monitoring industrial motor health using sensor data and a live dashboard. The project explores temperature, current, vibration, and RPM monitoring, machine status classification, alerts, and motor control.
 
 **Focus:** ESP32, embedded systems, sensors, IoT, dashboard development.
 
-2. [CampusConnect — Student Collaboration Platform](https://github.com/brmanish7-glitch/CampusConnect)
+### 2. [CampusConnect — Student Collaboration Platform](https://github.com/brmanish7-glitch/CampusConnect)
 A web platform for student collaboration and resource exchange, featuring team formation, real-time chat, a hackathon feed, and a student marketplace.
 
 **Focus:** React, Vite, Firebase, ImageKit, full-stack development.
 
-3. [Smart Soil Moisture Monitoring and Rain Prediction System](https://github.com/brmanish7-glitch/Smart-Soil-Moisture-Monitoring)
+### 3. [Smart Soil Moisture Monitoring and Rain Prediction System](https://github.com/brmanish7-glitch/Smart-Soil-Moisture-Monitoring)
 An Arduino-based project concept for monitoring soil moisture with LED indicators, complemented by proposed plant-specific moisture guidance and weather-based watering recommendations.
 
 **Focus:** Arduino, sensors, embedded systems, IoT concepts.
