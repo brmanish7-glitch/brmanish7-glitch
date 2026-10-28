@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Manish B 👋
 
-<!--
-**brmanish7-glitch/brmanish7-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE student at **Chennai Institute of Technology** (2025–2029), building IoT, embedded systems and full-stack web projects. I enjoy connecting hardware and software, from sensors and firmware to dashboards and cloud services.
 
-Here are some ideas to get you started:
+📍 Chennai, India
+🔎 Looking for internships in embedded systems, IoT and software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**[CampusConnect](https://github.com/brmanish7-glitch/CampusConnect)** – Student collaboration and resource exchange platform with team formation, real-time chat, a hackathon feed and a student marketplace. Built with React, Vite, Firebase and ImageKit. [Live site](https://campus-connect28.web.app/)
+
+**EdgeGuard AI** – ESP32-based industrial machine health monitoring system. Tracks vibration, temperature, current, voltage and RPM of a DC motor, classifies SAFE / WARNING / DANGER states, and streams to a live dashboard with an alert log, CSV logging and PIN-protected motor control.
+
+**Smart Water Irrigation System** – Arduino UNO system that controls water supply from soil moisture and uses weather prediction data to optimize irrigation.
+
+## Skills
+
+- **Embedded and hardware:** ESP32, Arduino UNO, C/C++, sensor interfacing, Altium Designer (basics)
+- **Software:** Python, JavaScript, React, FastAPI, HTML/CSS
+- **Tools and platforms:** Firebase, Git, VS Code
+
+## Certifications
+
+- Basic Printed Circuit Board Design, Altium
+- Basic Embedded Systems Design, Altium
+- Python Essentials 1, Cisco Networking Academy
+
+## Get in touch
+
+- LinkedIn: [linkedin.com/in/manish-b-b62908369](https://www.linkedin.com/in/manish-b-b62908369/)
+- Email: br.manish7@gmail.com
